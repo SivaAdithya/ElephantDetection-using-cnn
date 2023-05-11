@@ -1,0 +1,1 @@
+JcompFile1 consists of the final code which takes the video as input and detects whether elephant is present or not. Img_gen consists of the code used to generate the training dataset images. Other files consist of different models tested with different localities. 
